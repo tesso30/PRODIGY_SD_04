@@ -48,10 +48,6 @@ This is a Java-based Sudoku Solver application with a graphical user interface (
 ![Screenshot 2024-06-10 172944](https://github.com/tesso30/PRODIGY_SD_04/assets/156070938/58e60295-0a18-4ad4-9910-07e6ceae62de)
 
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit pull requests.
